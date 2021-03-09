@@ -1,10 +1,12 @@
 # Game-Jam 2020 <br>
-Ben Ranson & Elizabeth Lewis Game-Jam 2020 (fork of original project repo)
+[Ben Ranson](https://github.com/Benoniy) & Elizabeth Lewis (myself) Game-Jam 2020 (fork of original project repo)  
+
+View the game at [global game jam](https://globalgamejam.org/2020/games/some-assembly-required-2) 
+
 ## Our Game Idea <br>
 The title of our game is "Some assembly required" <br>
 The idea of this game is that you are a broken robot trying to re-assmble itself in some abandoned factory / laboratory.
 <br>
-It will be written in Java.
 ## How to modify our game <br>
 You can modifiy most elements of our game, from using a custom map layout to using your own assets.
 
@@ -25,3 +27,7 @@ After each body part you should list the doors which you wish to be triggered (m
 ![Map Guide](map-modding-config-guide.png)
 <br>
 Coordinates are relative to the location of the command-block (marked by the red pixel) so coordinates up & left of this pixel are negative values and down & right are positive, with the command block itself being 0,0 always.
+
+## Acknowledgements:
+* [Kevin MacLeod](https://incompetech.com/) for Music 
+* Michael Fairbank for organising the GameJam at University of Essex
